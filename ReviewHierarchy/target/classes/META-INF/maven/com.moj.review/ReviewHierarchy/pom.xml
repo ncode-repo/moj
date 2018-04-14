@@ -4,7 +4,7 @@
 	<groupId>com.moj.review</groupId>
 	<artifactId>ReviewHierarchy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -13,4 +13,5 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
 </project>
